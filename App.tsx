@@ -1,6 +1,6 @@
 import React from "react";
 import { StyleSheet, SafeAreaView } from "react-native";
-import { RadarChart } from "@salmonco/react-native-radar-chart";
+import { RadarChart } from "./src/lib";
 
 const App = () => {
   const data = [

@@ -9,7 +9,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "@salmonco/react-native-radar-chart": "^0.0.19",
+    "color": "^4.2.3",
     "@types/react": "~18.2.79",
     "expo": "~51.0.28",
     "expo-status-bar": "~1.12.1",
