@@ -1,7 +1,7 @@
 # project created to assist in resolving an error.
 When using the react-native-radar-chart lib in an expo project, the screen goes white and generates an error in devtools
 
-### Lib: @salmonco/react-native-radar-chart
+### Lib: [@salmonco/react-native-radar-chart](https://github.com/salmonco/react-native-radar-chart)
 
 ### Error:
 
