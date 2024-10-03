@@ -1,5 +1,5 @@
 project created to assist in resolving an error.
 
-lib:
+lib: @salmonco/react-native-radar-chart
 
 error:
